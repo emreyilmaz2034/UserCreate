@@ -1,0 +1,14 @@
+firstname,lastname,displayname,description,office,username,email,streetaddress,city,postalcode,state,country,department,password,telephone,jobtitle,company,ou
+Emre,YILMAZ,,IT Calisnlari,3.Kat,eyilmaz,eyilmaz@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,IT Office,P@ssword1,+90+903129998877,IT Manager,ANKARA,"OU=IT,OU=GM,DC=ankara,DC=com"
+Onur,CAN,,IT Calisnlari,3.Kat,ocan,ocan@ankara.com,Cankaya Cad.,ANKARA,34000,Bakirkoy,TURKIYE,IT Office,P@ssword1,+903129998877,IT Manager,ANKARA,"OU=IT,OU=GM,DC=ankara,DC=com"
+Aykut,ARAR,,IT Calisnlari,3.Kat,aarar,aarar@ankara.com,Cankaya Cad.,ANKARA,34000,Bakirkoy,TURKIYE,IT Office,P@ssword1,+903129998877,IT Manager,ANKARA,"OU=IT,OU=GM,DC=ankara,DC=com"
+Batuhan,DEMIRDAL,,IT Calisnlari,3.Kat,bdemirdal,bdemirdal@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,IT Office,P@ssword1,+903129998877,IT Manager,ANKARA,"OU=IT,OU=GM,DC=ankara,DC=com"
+Recep,KAPLAN,,IT Calisnlari,3.Kat,rkaplan,rkaplan@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,IT Office,P@ssword1,+903129998877,IT Manager,ANKARA,"OU=IT,OU=GM,DC=ankara,DC=com"
+Ayse,YILMAZ,,Muhasebe,2.Kat,ayilmaz,ayilmaz@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,Muhasebe,P@ssword1,+903129998877,Muhasebe Görevlisi,ANKARA,"OU=MUHASEBE,OU=GM,DC=ankara,DC=com"
+Fatma,KAPLAN,,Muhasebe,2.Kat,fkaplan,fkaplan@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,Muhasebe,P@ssword1,+903129998877,Muhasebe Görevlisi,ANKARA,"OU=MUHASEBE,OU=GM,DC=ankara,DC=com"
+Merve,YILDIZ,,Insan Kaynaklari,4.Kat,myildiz,myildiz@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,IK,P@ssword1,+903129998877,IK Uzmani,ANKARA,"OU=IK,OU=GM,DC=ankara,DC=com"
+Murat,SEZGIN,,Insan Kaynaklari,4.Kat,msezgin,msezgin@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,IK,P@ssword1,+903129998877,IK Uzmani,ANKARA,"OU=IK,OU=GM,DC=ankara,DC=com"
+Hasan,AKCAY,,Insan Kaynaklari,4.Kat,hakcay,hakcay@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,IK,P@ssword1,+903129998877,IK Uzmani,ANKARA,"OU=IK,OU=GM,DC=ankara,DC=com"
+Onder,BAYAR,,Insan Kaynaklari,4.Kat,obayar,obayar@ankara.com,Cankaya Cad.,ANKARA,34000,Cankaya,TURKIYE,IK,P@ssword1,+903129998877,IK Uzmani,ANKARA,"OU=IK,OU=GM,DC=ankara,DC=com"
+
+
